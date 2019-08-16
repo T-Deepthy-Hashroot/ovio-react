@@ -1,4 +1,4 @@
-import settings from '../../config/settings';
+import settings from '../../config/settings.example';
 import axios from './axios';
 import _ from 'lodash';
 
